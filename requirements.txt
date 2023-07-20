@@ -1,0 +1,3 @@
+pip install metaflow
+pip install xgboost
+pip install scikit-learn
