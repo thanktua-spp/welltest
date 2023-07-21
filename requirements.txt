@@ -1,3 +1,7 @@
 metaflow
 xgboost
 scikit-learn
+pandas
+matplotlib
+openpyxl
+prophet
